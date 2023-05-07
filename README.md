@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ArmaIppoAI
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Computer Science 
